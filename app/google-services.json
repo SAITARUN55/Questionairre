@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "463209967889",
+    "firebase_url": "https://questionairre-ad7a5.firebaseio.com",
+    "project_id": "questionairre-ad7a5",
+    "storage_bucket": "questionairre-ad7a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463209967889:android:d243222287d64e81",
+        "android_client_info": {
+          "package_name": "com.saar.saitarun.questionairre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463209967889-79k3f9vv3t855ddqq4ntfsd3njt3vj3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAocI4PFj5B2nUHs84euuiZswjE5WaeVeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
